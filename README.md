@@ -62,11 +62,29 @@ Traditionally, heuristic methods (e.g., shortest path, TSP solvers) are used. Ho
 
 ---
 
+### Timeline (24 Weeks)
+
+| Week(s) | Focus | Deliverables |
+|---------|-------|--------------|
+| 1–2 | Literature study, define KPIs, portfolio setup | Summary of related work, initial context write-up |
+| 3 | Warehouse data preparation (layout, orders) | Digital layout representation & dataset |
+| 4–6 | Baseline routing (heuristics: OR-Tools, nearest neighbor) | Scripts + baseline performance metrics |
+| 7–8 | Simulation environment (SimPy digital twin) | Simulated picker + order flow with KPIs |
+| 9–12 | RL model development (state, action, reward design) | Prototype RL agent, training environment |
+| 13–15 | RL training & tuning (Q-learning / DQN) | Trained RL agent, preliminary results |
+| 16–18 | Experiments: RL vs heuristics | Comparative metrics (meters walked, time/order) |
+| 19–20 | Evaluation, error analysis, improvements | Refined model + reflections |
+| 21–22 | Draft final report & presentation prep | Draft report, figures, and demo material |
+| 23 | 360° feedback + portfolio updates | Feedback report + reflection |
+| 24 | Final submission & defense | Final report, portfolio, presentation |
+
+---
+
 ## Part 2 – The Learning Activities
 
 ### 2a. Personal Learning Activities
 - **360° Feedback**: I will ask for feedback at least twice from my coach, AI experts, and warehouse staff, focusing on my personal learning objectives.  
-- **Self-reflection**: After feedback, I will reflect on my growth in AI application, system design, and project management.
+- **Self-reflection**: After feedback, I will reflect on my growth in AI application, system design, and project management. This includes evaluating if I have become more structured in research and more confident in applying AI to real-world cases.
 
 ### 2b. Theoretical Learning Activities (Learning Activity Reports)
 For each learning activity, I will provide a **Learning Activity Report (L.A.R.)** including:
@@ -74,13 +92,13 @@ For each learning activity, I will provide a **Learning Activity Report (L.A.R.)
 - **Content**: Summary of what was done, key findings.  
 - **Conclusions**: Reflection on results, relation to objectives, possible new directions.
 
-Example activities:
+Planned L.A.R.s:
 1. Literature study on RL and warehouse optimization.  
 2. Baseline algorithm implementation (OR-Tools).  
 3. Digital twin simulation setup.  
 4. RL agent development and training.  
 5. Experimental evaluation of RL vs. heuristics.  
-6. Final results, analysis, and conclusions.
+6. Final results, analysis, and conclusions.  
 
 ---
 
