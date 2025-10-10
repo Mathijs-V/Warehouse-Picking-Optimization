@@ -167,5 +167,3 @@ Using weekly portfolio updates and 360° feedback sessions, I will continuously 
 Learning will be considered successful when I can independently design, train, and critically evaluate an AI model that creates measurable operational value.
 
 ---
-
-**Word count ≈ 2 700 (≈ 6 pages formatted)**  
